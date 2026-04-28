@@ -20,7 +20,7 @@ Isometric 3D shooter (quake-like prototype)
 Classic Pong with focus on architecture  
 - Custom DI container  
 - Clean code, separation of concerns  
-🔗 https://github.com/Ra1nyDay-Dev/PingPong
+🔗 https://github.com/Ra1nyDay-Dev/PingPong  
 🎮 https://ra1nydays.itch.io/pingpong
 
 ---
