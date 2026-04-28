@@ -12,7 +12,7 @@ Isometric 3D shooter (quake-like prototype)
 - Gameplay systems, shooting, AI  
 - Zenject, UniTask, DOTween, Cinemachine  
 🔗 https://github.com/Ra1nyDay-Dev/CubeWars  
-🎮 https://ra1nydays.itch.io/ (если добавишь билд — будет топ)
+🎮 https://ra1nydays.itch.io/cubewars
 
 ---
 
@@ -20,7 +20,8 @@ Isometric 3D shooter (quake-like prototype)
 Classic Pong with focus on architecture  
 - Custom DI container  
 - Clean code, separation of concerns  
-🔗 https://github.com/Ra1nyDay-Dev/PingPong  
+🔗 https://github.com/Ra1nyDay-Dev/PingPong
+🎮 https://ra1nydays.itch.io/pingpong
 
 ---
 
