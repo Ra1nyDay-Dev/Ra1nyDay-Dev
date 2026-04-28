@@ -54,6 +54,20 @@ Backend background:
 
 ---
 
+## 🌍 Web projects
+### DonPeperon
+🔗 https://github.com/Ra1nyDay-Dev/DonPeperon <BR>
+🌐 https://ra1nyday-dev.github.io/Projects/DonPeperon/index.html
+### BudVkurse
+🔗 https://github.com/Ra1nyDay-Dev/BudVkurse <BR>
+🌐 https://ra1nyday-dev.github.io/Projects/BudVkurse/MyWeb.html
+### MoodAnalyzer
+🔗 https://github.com/Ra1nyDay-Dev/MoodAnalyzer <BR>
+🌐 https://ra1nyday-dev.github.io/Projects/MoodAnalyzer/index.html
+### jQueryCalc
+🔗 https://github.com/Ra1nyDay-Dev/jQueryCalc <BR>
+🌐 https://ra1nyday-dev.github.io/Projects/jQueryCalc/index.html
+
 ## 📫 Contacts
 - Itch.io: https://ra1nydays.itch.io/
 - Telegram: https://web.telegram.org/k/#@Ra1nyDays_Dev
