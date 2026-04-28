@@ -1,7 +1,17 @@
 ## 👋 Hi, I'm Roman
 
-Unity Developer (C#)  
-Building gameplay systems, AI, and game prototypes  
+ 
+ 
+
+Unity Developer (C#).<BR><BR>
+Building gameplay systems, AI, and game prototypes<BR> 
+<BR>
+I have experience working with Unity architecture and tools: Zenject, UniTask, Addressables, R3 (UniRx), DOTween, Cinemachine, Unity Ads, Unity IAPs.<BR>
+I apply key design patterns (DI, StateMachine, ObjectPool, Factory, Strategy, MV*, etc.).<BR>
+<BR>
+Over 5 years of commercial experience in backend and frontend development. <BR>
+Primary stack: MS SQL, PostgreSQL, TypeScript, Vue, Docker, RabbitMQ, GitLab.<BR>
+
 
 ---
 
