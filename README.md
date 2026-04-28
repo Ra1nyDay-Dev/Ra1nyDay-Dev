@@ -8,6 +8,10 @@ Building gameplay systems, AI, and game prototypes
 ## 🎮 Projects
 
 ### CubeWars
+
+<img width="426" height="240" alt="image" src="https://github.com/user-attachments/assets/e23161b2-6a62-42ed-995a-6520de80564d" />
+
+
 Isometric 3D shooter (quake-like prototype)  
 - Gameplay systems, shooting, AI  
 - Zenject, UniTask, DOTween, Cinemachine  
@@ -17,6 +21,10 @@ Isometric 3D shooter (quake-like prototype)
 ---
 
 ### PingPong
+
+<img width="426" height="240" alt="image" src="https://github.com/user-attachments/assets/f026aa14-737d-4034-aa9d-d8103c8e72c4" />
+
+
 Classic Pong with focus on architecture  
 - Custom DI container  
 - Clean code, separation of concerns  
